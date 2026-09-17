@@ -1,4 +1,4 @@
-package biblioteca.modelo;
+package modelo;
 
 public abstract class Libro {
     private int id;
