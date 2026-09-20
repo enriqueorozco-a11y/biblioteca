@@ -1,6 +1,5 @@
-package biblioteca;
-import biblioteca.modelo.*;
-import biblioteca.servicio.GestorBiblioteca;
+import modelo.*;
+import servicio.GestorBiblioteca;
 import java.util.Arrays;
 
 public class Main {
