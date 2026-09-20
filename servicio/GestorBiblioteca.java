@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class GestorBiblioteca {
+//Gestor
+public class GestorBiblioteca { 
     private final List<Libro> libros=new ArrayList<>();
     private final List<Autor> autores=new ArrayList<>();
     private final List<Usuario> usuarios=new ArrayList<>();
