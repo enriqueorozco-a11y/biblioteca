@@ -1,5 +1,5 @@
 package servicio;
-import biblioteca.modelo.*;
+import modelo.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
